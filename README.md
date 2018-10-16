@@ -1,6 +1,6 @@
 <table width="100%" heignt="100%">
   <tr>
-    <th colspan="6">Releases</th>
+    <th colspan="6" align="center">Releases</th>
   </tr>
   <tr>
     <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX200-Firmware-Add-on/releases">DX200 (8.1)</a></td>
