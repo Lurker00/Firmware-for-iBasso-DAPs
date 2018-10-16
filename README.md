@@ -1,6 +1,6 @@
 Please note, that I don't provide personal support neither for firmware nor for devices themselves. I've written comprehensive description of all the changes made for each version, and provided written instructions for devices when my firmware installation differs from the official way.
 
-All the versions were tested by many beta-testers before publishing. Should you find that something is worse than with the stock firmware, please [PM me in Head-Fi forum](https://www.head-fi.org/conversations/add?to=Lurker0)!
+All the versions were tested by many beta-testers before publishing, and have hundreds of active users. Should you find that something is worse than with the stock firmware, please [PM me in Head-Fi forum](https://www.head-fi.org/conversations/add?to=Lurker0)!
 
 <table width="100%">
   <tr>
