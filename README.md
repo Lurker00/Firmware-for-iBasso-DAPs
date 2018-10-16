@@ -11,3 +11,5 @@
     <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX80-firmware/releases">DX80</a></td>
   </tr>
 </table>
+
+**DISCLAIMER:** No changes were made to the basic player functionality and behavior! Expect the same bugs and misbehavior found in the base stock firmware! **No warranty at all: use the modified firmware at your own risk and responsibility!**
