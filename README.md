@@ -7,11 +7,12 @@ All the versions were tested by many beta-testers before publishing, and have hu
     <th colspan="6" align="center">Releases</th>
   </tr>
   <tr>
-    <td width="20%" align="center"><a href="https://github.com/Lurker00/DX200-Firmware-Add-on/releases">DX200 (A8.1)</a><br /><a href="https://github.com/Lurker00/DX200-firmware/releases">DX200 (A6.1)</a></td>
-    <td width="20%" align="center"><a href="https://github.com/Lurker00/DX150-Firmware-Add-on/releases">DX150 (A8.1)</a><br /><a href="https://github.com/Lurker00/DX150-firmware/releases">DX150 (A6.1)</a></td>
-    <td width="20%" align="center"><a href="https://github.com/Lurker00/DX120-firmware/releases">DX120</a></td>
-    <td width="20%" align="center"><a href="https://github.com/Lurker00/DX90-firmware/releases">DX90</a></td>
-    <td width="20%" align="center"><a href="https://github.com/Lurker00/DX80-firmware/releases">DX80</a></td>
+    <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX220-Firmware-Add-on/releases">DX220 (A8.1)</a></td>
+    <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX200-Firmware-Add-on/releases">DX200 (A8.1)</a><br /><a href="https://github.com/Lurker00/DX200-firmware/releases">DX200 (A6.1)</a></td>
+    <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX150-Firmware-Add-on/releases">DX150 (A8.1)</a><br /><a href="https://github.com/Lurker00/DX150-firmware/releases">DX150 (A6.1)</a></td>
+    <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX120-firmware/releases">DX120</a></td>
+    <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX90-firmware/releases">DX90</a></td>
+    <td width="16.6%" align="center"><a href="https://github.com/Lurker00/DX80-firmware/releases">DX80</a></td>
   </tr>
 </table>
 
