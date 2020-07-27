@@ -4,7 +4,7 @@ All the versions were tested by many beta-testers before publishing, and have hu
 
 <table width="100%">
   <tr>
-    <th colspan="6" align="center">Releases</th>
+    <th colspan="7" align="center">Releases</th>
   </tr>
   <tr>
     <td width="14.3%" align="center"><a href="https://github.com/Lurker00/DX220-Firmware-Add-on/releases">DX220 (A8.1)</a><br /><a href="https://github.com/Lurker00/DX220Max-Firmware-Add-on/releases">DX220Max (A8.1)</a></td>
